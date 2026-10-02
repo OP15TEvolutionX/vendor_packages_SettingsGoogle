@@ -186,6 +186,7 @@
 
     <!-- List containing the apps keep in battery mode = "Unrestricted" -->
     <string-array name="config_force_battery_unrestrict_mode_apps" translatable="false">
+        <item>com.kieronquinn.app.smartspacer</item>
         <item>com.google.android.retaildemo</item>
     </string-array>
 
